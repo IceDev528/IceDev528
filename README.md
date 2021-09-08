@@ -1,5 +1,5 @@
-## Hi 👋👋👋 Welcome to my profile.
-<h3 align="center">A talented Full-Stack Engineer</h3>
+## Hi 👋 Welcome 👋 to my profile.
+<h3 align="center">A Talented Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/devcoder111/devcoder111/raw/main/cover.png" />
@@ -7,7 +7,8 @@
 
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
+ Let's coding every day <br>
+ Learn every time<br>
  Let's go beyond our limits<br>
  Someone who wants to wear the 👑crown👑, bear its weight.<br>
 </p>
@@ -15,13 +16,13 @@
 ## Core skills
 
 - 🔭 I am ready to start your project immediately.
-- 🌱 <b>Front-end</b> : React js(Redux- Thunk, Saga), Next.js, Vue.js(Vuex), Nuxt.js, Gatsby.js, Quasar, 
-- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / CI / ROR
-- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
-- 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
+- 🌱 <b>Front-end</b> : React.js, Next.js, Vue.js, Nuxt.js, Gatsby.js, Quasar, Bootstrap, TailwindCSS
+- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / CI
+- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQLite
+- 📫 <b>Programming-languages</b> : JavaScript / TypeScript / HTML / CSS / PHP / Python
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=devcoder111&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=onedark"/>
 </p>
 
 ## Used Skills & Tools
@@ -58,7 +59,7 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/pwa.png"></code>
-<code><img height="45" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
+<code><img height="45" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
