@@ -8,7 +8,7 @@
 <p align="center">
  💎 💎 💎 </br>
  Let's coding every day <br>
- Learn every time<br>
+ Let's learn every time<br>
  Let's go beyond our limits<br>
  Someone who wants to wear the 👑crown👑, bear its weight.<br>
 </p>
@@ -16,10 +16,10 @@
 ## Core skills
 
 - 🔭 I am ready to start your project immediately.
-- 🌱 <b>Front-end</b> : React.js, Next.js, Vue.js, Nuxt.js, Gatsby.js, Quasar, Bootstrap, TailwindCSS
-- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / CI
-- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQLite
-- 📫 <b>Programming-languages</b> : JavaScript / TypeScript / HTML / CSS / PHP / Python
+- 🌱 <b>Frontend</b> : React.js, Next.js, Vue.js, Nuxt.js, Gatsby.js, Quasar, Bootstrap, TailwindCSS
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
+- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML, CSS, PHP, Python
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=onedark"/>
