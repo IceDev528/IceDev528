@@ -2,7 +2,7 @@
 <h3 align="center">A Talented Full-Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://github.com/devcoder111/devcoder111/raw/main/cover.png" />
+  <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
 </p>
 
 <p align="center">
