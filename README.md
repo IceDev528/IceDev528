@@ -7,9 +7,6 @@
 
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day <br>
- Let's learn every time<br>
- Let's go beyond our limits<br>
  Someone who wants to wear the 👑crown👑, bear its weight.<br>
 </p>
 
