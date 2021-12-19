@@ -10,7 +10,7 @@
 
 ## Core skills
 
-- 🔭 I am ready to start your project immediately.
+<!-- - 🔭 I am ready to start your project immediately. -->
 - 🌱 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar, Bootstrap, TailwindCSS
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
