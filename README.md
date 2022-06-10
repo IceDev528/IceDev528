@@ -88,10 +88,14 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
 </h2>
 <br />
-<p>
-Email: iceprince.L528@gmail.com <br />
-Skype: https://join.skype.com/invite/JScyn0BMIJ8S <br />
-Telegram: https://t.me/lionel528 <br />
-Discord: Lionel#3661
-</p>
+  
+   <a href="mailto:iceprince.L528@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/lionel528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/CwUGFEdJZH" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  
 </div>
