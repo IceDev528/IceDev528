@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;5+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -68,32 +68,25 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 
-<summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
+## Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=IceDev528&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev528&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="IceDev528's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IceDev528&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-    <img src = "profile-3d-contrib/profile-gitblock.svg">
   </a>
-  
 </p>
 </details>
 
-<div align="center">
-<h2>
-  How to reach me
-</h2>
-<br />
-  
-   <a href="mailto:iceprince.L528@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+## <p align="center">😇 Contact Me 😇</p>
+  <div align="center"> 
+   <a href="mailto:iceprince.L528@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/lionel528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/lionel528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/CwUGFEdJZH" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
+  <a href="https://discord.gg/CwUGFEdJZH" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   &nbsp;&nbsp;
-  
+  </div>
 </div>
