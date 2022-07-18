@@ -86,7 +86,7 @@
   &nbsp;&nbsp;
   <a href="https://t.me/lionel528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/CwUGFEdJZH" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+  <a href="https://discord.gg/2B2PpTCt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   &nbsp;&nbsp;
   </div>
 </div>
