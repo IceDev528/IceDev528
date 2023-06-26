@@ -16,19 +16,19 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
-- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
-- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
+- 📫 <b>Basic</b> : JavaScript, TypeScript, HTML5 & CSS, SASS, jQuery
+- 🔭 <b>Frontend</b> : React / Next, Vue / Nuxt, Redux / Vuex
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, Symfony, Node.js / Express, Python / Django, Flask, FastAPI, Ruby / Ruby on Rails
+- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, DeFi, Dex, NFT
+- 🌱 <b>Libraries</b> : Bootstrap, Tailwind CSS, Material UI, AntD, Storybook, Chakra UI
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+
 
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="45" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
 <code><img height="45" src="https://bestofjs.org/logos/vuetify.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
@@ -80,9 +80,9 @@
   <div align="center"> 
    <a href="mailto:iceprince.L528@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/lionel-robin-427181230" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+   <a href="https://www.linkedin.com/in/lionel-robin528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  <a href="https://join.skype.com/invite/M4WsYfcATj33" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/lionel528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
